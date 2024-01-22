@@ -1,3 +1,3 @@
 # GeometryDash
-First CPP Project
+First CPP Graphics Project
 WIP
